@@ -5,6 +5,7 @@ Exercise boot camp
 
 1. introductionToProgramming
    1. Development exercise 1
+   2. Development exercise 2
 
 2. java Basic
    1. Exercise 1 -- Types of values
