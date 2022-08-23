@@ -1,4 +1,4 @@
-package Exercise2;
+package javabasic.Exercise2;
 
 import java.util.Scanner;
 

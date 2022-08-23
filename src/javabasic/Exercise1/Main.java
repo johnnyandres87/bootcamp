@@ -1,4 +1,4 @@
-package Exercise1;
+package javabasic.Exercise1;
 
 public class Main {
 
