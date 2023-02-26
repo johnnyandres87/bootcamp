@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µôÄ™
+I
+java:S2201",The return value of "toString" must be used.(ýŸ©•8§ª†¢Ø0
+^
+java:S1858"A"saludar" returns a string, there's no need to call "toString()".(ýŸ©•8¨ª†¢Ø0
